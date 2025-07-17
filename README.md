@@ -5,3 +5,6 @@ adb tcpip 5555
 adb connect 100.106.88.42:5555
 
 https://pkgs.tailscale.com/stable/#windows
+
+
+scrcpy --no-audio --always-on-top -S
